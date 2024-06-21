@@ -1,18 +1,13 @@
 # News App
 
-![](https://github.com/simranlotey/react-news-app/blob/master/src/components/Images/demo.png)
-
-This News App is powered by the GNews public API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories, allowing users to easily browse and read articles of their interest. 
+This News App utilizes the GNews public API to deliver the most recent news articles from across the globe. The app features an intuitive interface, categorizing news articles to enable users to effortlessly browse and read content that interests them.
 
 ## Features
+News by Category: The app organizes news articles into several categories, such as entertainment, business, sports, technology, health, science, and more. Users can select a category to view articles relevant to that particular topic.
 
-- **Category-based News**: The app categorizes news articles into various categories, including entertainment, business, sports, technology, health, science, and more. Users can click on a category to view articles specific to that category.
+Search Functionality: The app features a search bar that allows users to look up specific news articles. By entering keywords related to their interests, users can quickly find relevant articles based on their search terms.
 
-- **Search News**: The app includes a search bar that enables users to search for specific news articles. Users can enter keywords related to the news they are interested in, and the app will display relevant articles based on the search query.
-
-- **Article Details**: Each article is displayed with a title, description, publication date, channel, and a link to visit the source website. This ensures that users can get a comprehensive understanding of the news article before deciding to read more.
-
-- **Responsive Design**: The app is designed to be responsive, providing a seamless experience across different screen sizes and devices. Whether users access the app from their desktop, tablet, or smartphone, the interface will adapt smoothly to fit their device.
+Detailed Articles: Each news article is presented with a title, summary, publication date, source, and a link to the original website. This setup ensures users can get a detailed overview of the news before choosing to read further.
 
 ## Technologies Used
 
@@ -32,38 +27,10 @@ To run the React News App on your local machine, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
-```
-git clone https://github.com/simranlotey/react-news-app.git
-```
-
-2. Navigate to the project directory:
-
-```
+2. Navigate to the project directory: <br>
 cd react-news-app
-```
-
-3. Install the required dependencies:
-
-```
+3. Install the required dependencies:<br>
 npm install
-```
-
-4. Start the development server:
-
-```
+4. Start the development server:<br>
 npm start
-```
-
-5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the app.
-
-## Contributing
-
-Contributions to this News App are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request in this repository.
-
-## License
-
-This News App is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-## Acknowledgements
-
 - This app utilizes the GNews public API for fetching news articles. Visit their website for more information: [GNews API](https://gnews.io/)
