@@ -1,5 +1,7 @@
 # News App
-![image](https://github.com/omsingh4321/Daily_News/assets/110286904/37fb0e06-745d-4903-9d02-a5abe68a5eab)
+![image](https://github.com/omsingh4321/Daily_News/assets/110286904/37fb0e06-745d-4903-9d02-a5abe68a5eab)<br>
+![image](https://github.com/omsingh4321/Daily_News/assets/110286904/6d75119d-ed28-4844-a230-9ccd66da1595)
+
 
 This News App utilizes the GNews public API to deliver the most recent news articles from across the globe. The app features an intuitive interface, categorizing news articles to enable users to effortlessly browse and read content that interests them.
 
