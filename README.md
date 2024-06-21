@@ -12,6 +12,8 @@ Search Functionality: The app features a search bar that allows users to look up
 
 Detailed Articles: Each news article is presented with a title, summary, publication date, source, and a link to the original website. This setup ensures users can get a detailed overview of the news before choosing to read further.
 
+Added Pagination here for rendering more news articles
+
 ## Technologies Used
 
 - **React**: The app is built using React, a popular JavaScript library for building user interfaces. React provides a robust foundation for creating interactive and dynamic components.
