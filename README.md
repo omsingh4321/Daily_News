@@ -1,3 +1,4 @@
+Deployed Url:- https://66753b97803efa4805dbf1c4--newsbyom.netlify.app/
 # News App
 ![image](https://github.com/omsingh4321/Daily_News/assets/110286904/37fb0e06-745d-4903-9d02-a5abe68a5eab)<br>
 ![image](https://github.com/omsingh4321/Daily_News/assets/110286904/6d75119d-ed28-4844-a230-9ccd66da1595)
